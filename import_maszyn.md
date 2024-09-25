@@ -13,8 +13,10 @@
 ![obraz](https://github.com/user-attachments/assets/1eb33653-b24b-485d-b86a-973ab3feea54)
 5. Klikamy next i na ekranie z parametrami naszej maszyny zmieniamy politykę adresów MAC
 ![obraz](https://github.com/user-attachments/assets/07be522c-b4e6-483e-8614-f9eb446a375f)
-6. Klikamy Zakończ
-7. Po udanym imporcie powinna nam się pojawić wirtualna maszyna na liście maszyn
+
+7. Klikamy Zakończ
+8. Po udanym imporcie powinna nam się pojawić wirtualna maszyna na liście maszyn
+
 ![obraz](https://github.com/user-attachments/assets/8a7573d3-188e-4004-bfae-88a47235edab)
 
 
