@@ -34,6 +34,20 @@
 
 ![obraz](https://github.com/user-attachments/assets/7c680d26-1ac3-43dc-9108-65feee67c3b3)
 
+10. W pierwszej kolejności zachęcam do zmiany nazwy naszej maszyny w okienku "Nazwa"
+
+![obraz](https://github.com/user-attachments/assets/b08c013a-6dd8-4ffe-b617-c02d9de8e54d)
+
+11. Kolejnym krokiem jest uaktywnienie dodatkowych interfejsów ethernet. W tym celu wybieramy z listy po lewej "sieć"
+a następnie dla każdej z kart kolejno (Karta 2, Karta 3, Karta 4) zaznaczamy opcję "włącz kartę sieciową". Na ten moment zostawiamy
+kartę niepodłączoną, konkretną konfiguracją zajmiemy się później.
+
+![obraz](https://github.com/user-attachments/assets/04024eeb-0aeb-4a4f-88df-9b9e05c1b4f6)
+
+
+
+
+
 
 
 
