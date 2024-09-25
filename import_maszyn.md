@@ -28,6 +28,13 @@
 
 ![obraz](https://github.com/user-attachments/assets/8a7573d3-188e-4004-bfae-88a47235edab)
 
+## Zmiana parametrów maszyny w celu posiadania 4 interfejsów sieciowych
+
+9. Na liście maszyn klikamy prawym przyciskiem na naszej zaimportowanej maszynie a następnie wybieramy "Ustawienia"
+
+![obraz](https://github.com/user-attachments/assets/7c680d26-1ac3-43dc-9108-65feee67c3b3)
+
+
 
 
 
